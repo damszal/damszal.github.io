@@ -1,0 +1,39 @@
+{
+"users":[
+	{
+	"id": 1,
+	"email": "john.doe123@example.com",
+	"password": "P@ssw0rd123"
+	},
+		{
+	"id": 2,
+	"email": "sarah.smith456@example.com",
+	"password": "SecurePass456"
+	},
+	{
+	"id": 3,
+	"email": "jason.williams789@example.com",
+	"password": "Rainbow2021!"
+	},
+	{
+	"id": 4,
+	"email": "emily.johnson101@example.com",
+	"password": "MySecretCode789"
+	},
+	{
+	"id": 5,
+	"email": "alex.miller222@example.com",
+	"password": "NinjaP@ss22"
+	},
+	{
+	"id": 6,
+	"email": "lisa.anderson333@example.com",
+	"password": "StrongerPwd333"
+	},
+	{
+	"id": 7,
+	"email": "admin@admin.com",
+	"password": "admin"
+	},
+ ]
+}
