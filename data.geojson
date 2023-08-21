@@ -32,6 +32,11 @@
 	},
 	{
 	"id": 7,
+	"email": "maciej.iwanczyn@example.com",
+	"password": "obrabiacz4L"
+	},
+	{
+	"id": 8,
 	"email": "admin@admin.com",
 	"password": "admin"
 	}
