@@ -41,66 +41,67 @@
 	"password": "admin"
 	}
  ],
- "stuff":[
-	{
-	 "Id.": 1,
-	 "Barcode": 8712345600011,
-	 "Name": "Aleksandra",
-	 "Surname": "Nowakowska"
-	},
-	{
-	 "Id.": 2,
-	 "Barcode": 5901234500123,
-	 "Name": "Mateusz",
-	 "Surname": "Kowalski"
-	},
-	{
-	 "Id.": 3,
-	 "Barcode": 4267890123004,
-	 "Name": "Katarzyna",
-	 "Surname": "Wójcik"
-	},
-	{
-	 "Id.": 4,
-	 "Barcode": 9321567890128,
-	 "Name": "Jakub",
-	 "Surname": "Nowicki"
-	},
-	{
-	 "Id.": 5,
-	 "Barcode": 3512345678905,
-	 "Name": "Natalia",
-	 "Surname": "Adamczyk"
-	},
-	{
-	 "Id.": 6,
-	 "Barcode": 6842012345677,
-	 "Name": "Michał",
-	 "Surname": "Krawczyk"
-	},
-	{
-	 "Id.": 7,
-	 "Barcode": 1234567890120,
-	 "Name": "Emilia",
-	 "Surname": "Piotrowska"
-	},
-	{
-	 "Id.": 8,
-	 "Barcode": 8801234567896,
-	 "Name": "Wojciech",
-	 "Surname": "Michalski"
-	},
-	{
-	 "Id.": 9,
-	 "Barcode": 2938475612347,
-	 "Name": "Agnieszka",
-	 "Surname": "Jankowska"
-	},
-	{
-	 "Id.": 10,
-	 "Barcode": 7654321980126,
-	 "Name": "Adrian",
-	 "Surname": "Kaczmarek"
-	}
-   ]
-}
+ "stuff":[{
+	 "basic-data":[
+		{
+		"Id.": 1,
+		"Barcode": 8712345600011,
+		"Name": "Aleksandra",
+		"Surname": "Nowakowska"
+	   },
+	   {
+		"Id.": 2,
+		"Barcode": 5901234500123,
+		"Name": "Mateusz",
+		"Surname": "Kowalski"
+	   },
+	   {
+		"Id.": 3,
+		"Barcode": 4267890123004,
+		"Name": "Katarzyna",
+		"Surname": "Wójcik"
+	   },
+	   {
+		"Id.": 4,
+		"Barcode": 9321567890128,
+		"Name": "Jakub",
+		"Surname": "Nowicki"
+	   },
+	   {
+		"Id.": 5,
+		"Barcode": 3512345678905,
+		"Name": "Natalia",
+		"Surname": "Adamczyk"
+	   },
+	   {
+		"Id.": 6,
+		"Barcode": 6842012345677,
+		"Name": "Michał",
+		"Surname": "Krawczyk"
+	   },
+	   {
+		"Id.": 7,
+		"Barcode": 1234567890120,
+		"Name": "Emilia",
+		"Surname": "Piotrowska"
+	   },
+	   {
+		"Id.": 8,
+		"Barcode": 8801234567896,
+		"Name": "Wojciech",
+		"Surname": "Michalski"
+	   },
+	   {
+		"Id.": 9,
+		"Barcode": 2938475612347,
+		"Name": "Agnieszka",
+		"Surname": "Jankowska"
+	   },
+	   {
+		"Id.": 10,
+		"Barcode": 7654321980126,
+		"Name": "Adrian",
+		"Surname": "Kaczmarek"
+	   }
+	 ]
+}]}
