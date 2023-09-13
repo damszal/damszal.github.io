@@ -44,7 +44,7 @@
  "products":[
 	 {
 	"id":1,
-	 "categories-female":[
+	 "female":[
 		 "Athletic Shoes/Sneakers",
 		 "Casual Shoes",
 		 "Boots",
@@ -58,7 +58,7 @@
 		 ,
 	{
 	"id":2,
-	 "categories-male":[
+	 "male":[
 		 "Athletic Shoes/Sneakers",
 		 "Casual Shoes",
 		 "Boots",
@@ -72,7 +72,7 @@
 	 ]},
 	 {
 	"id": 3,
-	 "categories-kids":[
+	 "kids":[
 		 "Athletic Shoes/Sneakers",
 		 "Casual Shoes",
 		 "Boots",
