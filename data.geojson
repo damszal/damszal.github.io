@@ -43,6 +43,7 @@
  ],
  "products":[
 	 {
+	"id":1,
 	 "categories-female":[
 		 "Athletic Shoes/Sneakers",
 		 "Casual Shoes",
@@ -56,6 +57,7 @@
 		 "Clogs"]}
 		 ,
 	{
+	"id":2,
 	 "categories-male":[
 		 "Athletic Shoes/Sneakers",
 		 "Casual Shoes",
@@ -69,6 +71,7 @@
 		 "Clogs"
 	 ]},
 	 {
+	"id": 3,
 	 "categories-kids":[
 		 "Athletic Shoes/Sneakers",
 		 "Casual Shoes",
