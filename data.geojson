@@ -41,6 +41,21 @@
 	"password": "admin"
 	}
  ],
+ "products":[
+	{
+	"categories-female":[
+		"Athletic Shoes/Sneakers",
+		"Casual Shoes",
+		"Boots",
+		"Sandals",
+		"Dress Shoes",
+		"High Heels",
+		"Slippers",
+		"Espadrilles",
+		"Flats",
+		"Clogs"
+	]}	
+ ],
  "stuff":[{
 	 "basic-data":[
 		{
@@ -104,4 +119,5 @@
 		"Surname": "Kaczmarek"
 	   }
 	 ]
-}]}
+}]
+}
