@@ -41,7 +41,7 @@
 	"password": "admin"
 	}
  ],
- "products":[
+ "products":
 	{
 	"categories-female":[
 		"Athletic Shoes/Sneakers",
@@ -53,9 +53,7 @@
 		"Slippers",
 		"Espadrilles",
 		"Flats",
-		"Clogs"]
-	},
-	{
+		"Clogs"],
 	"categories-male":[
 		"Athletic Shoes/Sneakers",
 		"Casual Shoes",
@@ -67,8 +65,7 @@
 		"Espadrilles",
 		"Flats",
 		"Clogs"
-	]},
-	{
+	],
 	"categories-kids":[
 		"Athletic Shoes/Sneakers",
 		"Casual Shoes",
@@ -83,8 +80,7 @@
 		"Rain Boots",
 		"Winter Boots"
 	]
-}	
- ],
+}	,
  "stuff":[{
 	 "basic-data":[
 		{
