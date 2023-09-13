@@ -54,7 +54,34 @@
 		"Espadrilles",
 		"Flats",
 		"Clogs"
-	]}	
+	],
+	"categories-male":[
+		"Athletic Shoes/Sneakers",
+		"Casual Shoes",
+		"Boots",
+		"Sandals",
+		"Dress Shoes",
+		"High Heels",
+		"Slippers",
+		"Espadrilles",
+		"Flats",
+		"Clogs"
+	],
+	"categories-kids":[
+		"Athletic Shoes/Sneakers",
+		"Casual Shoes",
+		"Boots",
+		"Sandals",
+		"Dress Shoes",
+		"High Heels (for special occasions)",
+		"Slippers",
+		"Espadrilles",
+		"Flats",
+		"Clogs",
+		"Rain Boots",
+		"Winter Boots"
+	]
+}	
  ],
  "stuff":[{
 	 "basic-data":[
