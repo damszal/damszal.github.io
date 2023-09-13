@@ -53,8 +53,9 @@
 		"Slippers",
 		"Espadrilles",
 		"Flats",
-		"Clogs"
-	],
+		"Clogs"]
+	},
+	{
 	"categories-male":[
 		"Athletic Shoes/Sneakers",
 		"Casual Shoes",
@@ -66,7 +67,8 @@
 		"Espadrilles",
 		"Flats",
 		"Clogs"
-	],
+	]},
+	{
 	"categories-kids":[
 		"Athletic Shoes/Sneakers",
 		"Casual Shoes",
