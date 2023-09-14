@@ -47,7 +47,7 @@
 		"columnWomen":[
 			{
 				"id":1,
-				"female": "true",
+				"sex": "female",
 				"title": "Athletic Shoes/Sneakers"
 				},
 				 {
