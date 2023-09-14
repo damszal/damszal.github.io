@@ -41,7 +41,7 @@
 	"password": "admin"
 	}
  ],
- "products":[
+ "manuColumns":[
 	{
 		"id":1,
 		"columnWomen":[
@@ -52,48 +52,98 @@
 				},
 				 {
 				"id":2,
-				"female": "true",
+				"sex": "female",
 				"title": "Slippers"
 				},
 				 {
 				"id":3,
-				"female": "true",
+				"sex": "female",
 				"title": "High Heels"
 				},
 				 {
 				"id":4,
-				"female": "true",
+				"sex": "female",
 				"title": "Dress Shoes"
 				},
 				 {
 				"id":5,
-				"female": "true",
+				"sex": "female",
 				"title": "Sandals"
 				},
 				 {
 				"id":6,
-				"female": "true",
+				"sex": "female",
 				"title": "Boots"
 				},
 				 {
 				"id":7,
-				"female": "true",
+				"sex": "female",
 				"title": "Casual Shoes"
 				},
 				 {
 				"id":8,
-				"female": "true",
+				"sex": "female",
 				"title": "Espadrilles"
 				},
 				 {
 				"id":9,
-				"female": "true",
+				"sex": "female",
 				"title":  "Flats"
 				},
 				 {
 				"id":10,
-				"female": "true",
+				"sex": "female",
 				"title": "Clogs"
+				}
+			 ]	
+	},
+	{
+		"id":2,
+		"columnMen":[
+			{
+				"id":1,
+				"sex": "male",
+				"title": "Athletic Shoes/Sneakers"
+				},
+				 {
+				"id":2,
+				"sex": "male",
+				"title": "Casual Shoes"
+				},
+				 {
+				"id":3,
+				"sex": "male",
+				"title":  "Boots"
+				},
+				 {
+				"id":4,
+				"sex": "male",
+				"title": "Sandals"
+				},
+				 {
+				"id":5,
+				"sex": "male",
+				"title": "Dress Shoes"
+				},
+				 {
+				"id":6,
+				"sex": "male",
+				"title": "Boots"
+				},
+				 {
+				"id":7,
+				"sex": "male",
+				"title": "Casual Shoes"
+				},
+				 {
+				"id":8,
+				"sex": "male",
+				"title": "Flats"
+				},
+				 {
+				"id":9,
+				"sex": "male",
+				"title":  "Clogs"
 				}
 			 ]	
 	}
