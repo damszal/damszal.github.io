@@ -44,49 +44,55 @@
  "products":[
 	 {
 	"id":1,
-	 "female":[
-		 "Athletic Shoes/Sneakers",
-		 "Casual Shoes",
-		 "Boots",
-		 "Sandals",
-		 "Dress Shoes",
-		 "High Heels",
-		 "Slippers",
-		 "Espadrilles",
-		 "Flats",
-		 "Clogs"]}
-		 ,
-	{
-	"id":2,
-	 "male":[
-		 "Athletic Shoes/Sneakers",
-		 "Casual Shoes",
-		 "Boots",
-		 "Sandals",
-		 "Dress Shoes",
-		 "High Heels",
-		 "Slippers",
-		 "Espadrilles",
-		 "Flats",
-		 "Clogs"
-	 ]},
+	"female": "true",
+	"title": "Athletic Shoes/Sneakers"
+	},
 	 {
-	"id": 3,
-	 "kids":[
-		 "Athletic Shoes/Sneakers",
-		 "Casual Shoes",
-		 "Boots",
-		 "Sandals",
-		 "Dress Shoes",
-		 "High Heels (for special occasions)",
-		 "Slippers",
-		 "Espadrilles",
-		 "Flats",
-		 "Clogs",
-		 "Rain Boots",
-		 "Winter Boots"
-	 ]
- }]	,
+	"id":2,
+	"female": "true",
+	"title": "Slippers"
+	},
+	 {
+	"id":3,
+	"female": "true",
+	"title": "High Heels"
+	},
+	 {
+	"id":4,
+	"female": "true",
+	"title": "Dress Shoes"
+	},
+	 {
+	"id":5,
+	"female": "true",
+	"title": "Sandals"
+	},
+	 {
+	"id":6,
+	"female": "true",
+	"title": "Boots"
+	},
+	 {
+	"id":7,
+	"female": "true",
+	"title": "Casual Shoes"
+	},
+	 {
+	"id":8,
+	"female": "true",
+	"title": "Espadrilles"
+	},
+	 {
+	"id":9,
+	"female": "true",
+	"title":  "Flats"
+	},
+	 {
+	"id":10,
+	"female": "true",
+	"title": "Clogs"
+	}
+ ],
 
  "stuff":[{
 	 "basic-data":[
