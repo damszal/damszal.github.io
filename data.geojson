@@ -146,6 +146,46 @@
 				"title":  "Clogs"
 				}
 			 ]	
+	},
+	{
+		"id":2,
+		"columnKids":[
+				 {
+				"id":1,
+				"sex": "all",
+				"title": "Casual Shoes"
+				},
+				 {
+				"id":2,
+				"sex": "all",
+				"title":  "Boots"
+				},
+				 {
+				"id":3,
+				"sex": "all",
+				"title": "Winter Boots"
+				},
+				 {
+				"id":4,
+				"sex": "all",
+				"title": "Rain Boots"
+				},
+				 {
+				"id":5,
+				"sex": "all",
+				"title": "Sneakers"
+				},
+				 {
+				"id":6,
+				"sex": "male",
+				"title": "Slippers"
+				},
+				 {
+				"id":7,
+				"sex": "male",
+				"title":  "Clogs"
+				}
+			 ]	
 	}
  ],
 
