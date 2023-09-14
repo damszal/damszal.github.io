@@ -42,55 +42,60 @@
 	}
  ],
  "products":[
-	 {
-	"id":1,
-	"female": "true",
-	"title": "Athletic Shoes/Sneakers"
-	},
-	 {
-	"id":2,
-	"female": "true",
-	"title": "Slippers"
-	},
-	 {
-	"id":3,
-	"female": "true",
-	"title": "High Heels"
-	},
-	 {
-	"id":4,
-	"female": "true",
-	"title": "Dress Shoes"
-	},
-	 {
-	"id":5,
-	"female": "true",
-	"title": "Sandals"
-	},
-	 {
-	"id":6,
-	"female": "true",
-	"title": "Boots"
-	},
-	 {
-	"id":7,
-	"female": "true",
-	"title": "Casual Shoes"
-	},
-	 {
-	"id":8,
-	"female": "true",
-	"title": "Espadrilles"
-	},
-	 {
-	"id":9,
-	"female": "true",
-	"title":  "Flats"
-	},
-	 {
-	"id":10,
-	"female": "true",
-	"title": "Clogs"
+	{
+		"id":1,
+		"columnWomen":[
+			{
+				"id":1,
+				"female": "true",
+				"title": "Athletic Shoes/Sneakers"
+				},
+				 {
+				"id":2,
+				"female": "true",
+				"title": "Slippers"
+				},
+				 {
+				"id":3,
+				"female": "true",
+				"title": "High Heels"
+				},
+				 {
+				"id":4,
+				"female": "true",
+				"title": "Dress Shoes"
+				},
+				 {
+				"id":5,
+				"female": "true",
+				"title": "Sandals"
+				},
+				 {
+				"id":6,
+				"female": "true",
+				"title": "Boots"
+				},
+				 {
+				"id":7,
+				"female": "true",
+				"title": "Casual Shoes"
+				},
+				 {
+				"id":8,
+				"female": "true",
+				"title": "Espadrilles"
+				},
+				 {
+				"id":9,
+				"female": "true",
+				"title":  "Flats"
+				},
+				 {
+				"id":10,
+				"female": "true",
+				"title": "Clogs"
+				}
+			 ]	
 	}
  ],
 
