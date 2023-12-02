@@ -191,64 +191,64 @@
 
  "stuff":[
 		{
-		"Id.": 1,
-		"Barcode": 8712345600011,
-		"Name": "Aleksandra",
-		"Surname": "Nowakowska"
+		"id": 1,
+		"barcode": 8712345600011,
+		"name": "Aleksandra",
+		"surname": "Nowakowska"
 	   },
 	   {
-		"Id.": 2,
-		"Barcode": 5901234500123,
-		"Name": "Mateusz",
-		"Surname": "Kowalski"
+		"id": 2,
+		"barcode": 5901234500123,
+		"name": "Mateusz",
+		"surname": "Kowalski"
 	   },
 	   {
-		"Id.": 3,
-		"Barcode": 4267890123004,
-		"Name": "Katarzyna",
-		"Surname": "Wójcik"
+		"id": 3,
+		"barcode": 4267890123004,
+		"name": "Katarzyna",
+		"surname": "Wójcik"
 	   },
 	   {
-		"Id.": 4,
-		"Barcode": 9321567890128,
-		"Name": "Jakub",
-		"Surname": "Nowicki"
+		"id": 4,
+		"barcode": 9321567890128,
+		"name": "Jakub",
+		"surname": "Nowicki"
 	   },
 	   {
-		"Id.": 5,
-		"Barcode": 3512345678905,
-		"Name": "Natalia",
-		"Surname": "Adamczyk"
+		"id": 5,
+		"barcode": 3512345678905,
+		"name": "Natalia",
+		"surname": "Adamczyk"
 	   },
 	   {
-		"Id.": 6,
-		"Barcode": 6842012345677,
-		"Name": "Michał",
-		"Surname": "Krawczyk"
+		"id": 6,
+		"barcode": 6842012345677,
+		"name": "Michał",
+		"surname": "Krawczyk"
 	   },
 	   {
-		"Id.": 7,
-		"Barcode": 1234567890120,
-		"Name": "Emilia",
-		"Surname": "Piotrowska"
+		"id": 7,
+		"barcode": 1234567890120,
+		"name": "Emilia",
+		"surname": "Piotrowska"
 	   },
 	   {
-		"Id.": 8,
-		"Barcode": 8801234567896,
-		"Name": "Wojciech",
-		"Surname": "Michalski"
+		"id": 8,
+		"barcode": 8801234567896,
+		"name": "Wojciech",
+		"surname": "Michalski"
 	   },
 	   {
-		"Id.": 9,
-		"Barcode": 2938475612347,
-		"Name": "Agnieszka",
-		"Surname": "Jankowska"
+		"id": 9,
+		"barcode": 2938475612347,
+		"name": "Agnieszka",
+		"surname": "Jankowska"
 	   },
 	   {
-		"Id.": 10,
-		"Barcode": 7654321980126,
-		"Name": "Adrian",
-		"Surname": "Kaczmarek"
+		"id": 10,
+		"barcode": 7654321980126,
+		"name": "Adrian",
+		"surname": "Kaczmarek"
 	   }
 	 ]
 }
