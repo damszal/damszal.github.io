@@ -189,8 +189,7 @@
 	}
  ],
 
- "stuff":[{
-	 "basic-data":[
+ "stuff":[
 		{
 		"Id.": 1,
 		"Barcode": 8712345600011,
@@ -252,5 +251,4 @@
 		"Surname": "Kaczmarek"
 	   }
 	 ]
-}]
 }
